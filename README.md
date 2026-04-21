@@ -27,5 +27,3 @@
 
 4 – Область, в которую должен попасть агент.
 
-### анимированное прохождение карты:
-<img width="781" height="625" alt="image" src="https://github.com/user-attachments/assets/24eab4a9-16d7-4237-8b7b-2abf9aa509e3" />
